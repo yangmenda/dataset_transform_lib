@@ -1,0 +1,2 @@
+labelme json转为xml时，需放在图片和标签的文件夹下面。并且xml里面的class_name需改为你的类型名，否则出不来结果！
+data_to_voc需修改路径
